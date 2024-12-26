@@ -1,3 +1,22 @@
+# Waveshooter
+My attempt at a wave-based first person shooter game. 
+
+The game uses Raylib for graphics, audio, asset management, and windowing, among other features of the library.
+Instructions on how to build the game for your system are below the Todo list.
+
+Completed:
+- FPS camera and movement
+- AABB collisions
+
+Todo:
+- Reorganize collision detection code
+- Add component/game object hierarchy
+- Create map
+- Add enemies
+- Implement shooting, player & enemy health
+
+
+
 # Raylib Setup using Premake5
 This is a template system for building cross platform raylib projects using premake. It is focused on intermediate to advanced users.
 for a simple template, please see Raylib-QuickStart
