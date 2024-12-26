@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\angel\source\repos\Waveshooter\game-premake\game\Player.h(134,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+  game-premake.vcxproj -> C:\Users\angel\source\repos\Waveshooter\game-premake\bin\Debug\game-premake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
