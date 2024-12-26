@@ -1,8 +1,9 @@
 # Waveshooter
 My attempt at a wave-based first person shooter game. 
 
-The game uses Raylib for graphics, audio, asset management, and windowing, among other features of the library.
-Instructions on how to build the game for your system are below the Todo list.
+The game uses raylib for graphics, audio, asset management, and windowing, among other features of the library.
+Instructions on how to build the game for your system are below the Todo list. The project uses a quick and easy
+template to make your raylib project cross-platform. 
 
 Completed:
 - FPS camera and movement
